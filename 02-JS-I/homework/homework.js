@@ -81,16 +81,9 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-
-let str1 = "SuperMan";
-let str2 = "SM";
-console.log(str1 == str2)
-
-str2 = 'SuperMan' 
-console.log(str1 == str2)
-
-  
-}
+str1 = "str1";
+str2
+} 
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
